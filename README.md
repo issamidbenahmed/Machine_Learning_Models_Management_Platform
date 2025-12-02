@@ -106,15 +106,6 @@ ml-platform/
 - Limite de taille des uploads (50MB)
 - APIs activables/désactivables
 
-## 🧪 Datasets d'exemple
-
-Disponibles dans `test_data/`:
-- `iris.csv` - Classification (3 classes)
-- `housing.csv` - Régression (prix)
-- `titanic.csv` - Classification binaire
-- `Loan_approval_data_2025.csv` - Classification
-
-
 ---
 
 **Développé par**: ID BEN AHMED Aissam  
